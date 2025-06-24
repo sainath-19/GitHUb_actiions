@@ -1,6 +1,5 @@
 # app.py
-#this is the first change
-
+#This is the first change  we made
 def add(a, b):
     return a + b
 
